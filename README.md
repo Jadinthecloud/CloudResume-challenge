@@ -21,3 +21,6 @@ Features
 - Visitor counter
 - Serverless API (Function app)
 - Cosmos DB persistence
+
+
+www.jadsresume.co.uk
