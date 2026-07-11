@@ -1,0 +1,7 @@
+{
+  "main": "src/index.js",
+  "dependencies": {
+    "@azure/data-tables": "^13.3.2",
+    "@azure/functions": "^4.16.1"
+  }
+}

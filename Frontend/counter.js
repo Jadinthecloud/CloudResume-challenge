@@ -1,0 +1,1 @@
+<p>Views: <span id="viewCount">0</span></p>
